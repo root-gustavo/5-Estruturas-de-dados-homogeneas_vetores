@@ -32,34 +32,34 @@ dobro de cada um dos números vetor A e apresente o vetor B na tela.
 vetor, o maior valor do vetor, a soma dos valores do vetor e a média dos valores do vetor.
 ```
 ```markdown
- 6. Escreva um programa que calcule o produto escalar entre dois vetores de inteiros de tamanho igual a 
- Exemplo: {0, 2, 4, 6, 8} x {1, 3, 5, 7, 9} = 0 * 1 + 2 * 3 + 4 * 5 + 6 * 7 + 8 * 9 = 140.
+ 6. Escreva um programa que calcule o produto escalar entre dois vetores de inteiros de tamanho 
+ igual a Exemplo: {0, 2, 4, 6, 8} x {1, 3, 5, 7, 9} = 0 * 1 + 2 * 3 + 4 * 5 + 6 * 7 + 8 * 9 = 140.
 ```
  ```markdown
  7. Escreva um programa que armazene 5 números em um vetor e apresente uma listagem contendo o 
 índice do elemento e uma das mensagens: par ou ímpar.
 ```
 ```markdown
- 8. Escreva um programa alimente um vetor de 5 números inteiros distintos. Em seguida, leia um número 
-qualquer do teclado e mostre na tela o índice em que o número se encontra no vetor, ou então a 
-mensagem "Não encontrado", se o número não estiver presente no vetor.
+ 8. Escreva um programa alimente um vetor de 5 números inteiros distintos. Em seguida
+leia um número qualquer do teclado e mostre na tela o índice em que o número se encontra no vetor 
+ou então a mensagem "Não encontrado", se o número não estiver presente no vetor.
 ```
 ```markdown
- 9. Um armazém trabalha com 10 mercadorias diferentes identificadas pelos números inteiros de 0 a 9. 
-O dono do armazém anota a quantidade de cada mercadoria vendida durante o mês. Ele tem uma 
-tabela que indica para cada mercadoria o preço de venda. Escreva um programa que leia a quantidade 
-vendida de cada produto no final do mês (armazenando-os em um vetor Q) e o preço de venda de 
-cada um (armazenado-os em um vetor P). Em seguida, calcule e apresente o faturamento mensal do 
-armazém.
+ 9. Um armazém trabalha com 10 mercadorias diferentes identificadas pelos números inteiros 
+de 0 a 9. O dono do armazém anota a quantidade de cada mercadoria vendida durante o mês. 
+Ele tem uma tabela que indica para cada mercadoria o preço de venda
+Escreva um programa que leia a quantidade vendida de cada produto no final do mês 
+(armazenando-os em um vetor Q) e o preço de venda de cada um (armazenado-os em um vetor P). 
+Em seguida, calcule e apresente o faturamento mensal do armazém.
 ```
 ```markdown
  10. Escreva um programa que preencha um vetor de 100 elementos inteiros com os números 10, 20, 30, 
 40, 50, ... , 1000. Apresentar o vetor na tela após o seu total preenchimento.
 ```
 ```markdown
- 11. Tentando descobrir se um dado era viciado, um dono de cassino honesto (risos) o lançou 15 vezes. 
-Escreva um programa que dados os resultados dos lançamentos, armazene em um vetor o número de 
-ocorrências de cada face. Apresente o resultado na tela.
+ 11. Tentando descobrir se um dado era viciado, um dono de cassino honesto (risos) 
+o lançou 15 vezes. Escreva um programa que dados os resultados dos lançamentos
+armazene em um vetor o número de ocorrências de cada face. Apresente o resultado na tela.
 ```
 ```markdown
  12. Escreva um programa que alimente um vetor G de 6 elementos contendo o gabarito da Mega-Sena e 

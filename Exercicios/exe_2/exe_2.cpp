@@ -14,4 +14,6 @@ int main(){
 			printf("Os numeros impares digitados foram: %d\n", vet[i]);
 		}
 	}
+	
+	return 0;
 }

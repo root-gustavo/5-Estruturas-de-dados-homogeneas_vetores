@@ -19,4 +19,6 @@ int main(){
 			printf("\nOs valores superiores ou iguais a media eh: %d \n", vet[i]);
 		}
 	}
+	
+	return 0;
 }
